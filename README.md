@@ -1,2 +1,2 @@
-# bookStoreClone
+# Pg Locator
 Using MERN
